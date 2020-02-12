@@ -1,3 +1,6 @@
-p{
-    color: red;
+legend{
+    size: 5;
+}
+body {
+    font-size: large;
 }
